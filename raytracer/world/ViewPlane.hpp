@@ -22,7 +22,7 @@ public:
 
 public:
   // Constructors.
-  ViewPlane(); // 640 x 480 view plane at (-320, 240)
+  ViewPlane() = default;  // attributes are public and must be set externally.
 
   // Copy constructor and assignment operator.
   ViewPlane(const ViewPlane &other) = default;
