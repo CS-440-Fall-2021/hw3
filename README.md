@@ -31,7 +31,7 @@ Previous teams that worked on this homework reported the following number of hou
 
 # Last year's feedback
 
-A summary of the feedback on this assignment from last year is included in `feedback.md`. Some flattering comments toward the bottom of the file are included in their entirety! Based on the feedback, some function signatures have been updated. Please ask Ali to explain the class hierarchy in the recitation session.
+A summary of the feedback on this assignment from last year is included in `old-feedback.md`. Some flattering comments toward the bottom of the file are included in their entirety! Based on the feedback, some function signatures have been updated. Please ask Ali to explain the class hierarchy in the recitation session.
 
 # Submission
 
